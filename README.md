@@ -1,5 +1,5 @@
 👋 Hi, I’m @Ichola90
-👀 I’m interested in web development, backend technologies, and building scalable full-stack applications using PHP, Symfony, Laravel, MySQL, JavaScript, React, Express, and Java.
+👀 I’m interested in web development, backend technologies, and building scalable full-stack applications using PHP, Symfony, Laravel, MySQL, JavaScript,TypeScript, React, Next.js 
 🌱 I’m currently learning advanced concepts in Laravel, Node.js/Express, and exploring microservices architecture and modern frontend frameworks like React.
 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and backend services involving PHP, JavaScript, or Java ecosystems.
 📫 How to reach me: you can contact me at aichola22@gmail.com
