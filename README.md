@@ -82,7 +82,7 @@ const ichola: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats Pub
 
 
 <div align="center">
