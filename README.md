@@ -84,11 +84,6 @@ const ichola: Developer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-username=Ichola90&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&bg_color=0d1117&border_color=F59E0B"/>
-username=Ichola90&layout=compact&langs_count=8&theme=radical&title_color=F59E0B&text_color=ffffff&bg_color=0d1117&border_color=F59E0B"/>
-
-</div>
 
 <div align="center">
 
