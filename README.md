@@ -6,7 +6,7 @@
 <!-- AVATAR + STATUS -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;Full+Stack+Engineer+%7C+Laravel+%C2%B7+React+%C2%B7+Next.js;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9A%A1;Open+to+collaboration+%F0%9F%A4%9D;Debugging+is+an+art+form+%F0%9F%90%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;full+Stack+Engineer+%7C+Laravel+%C2%B7+React+%C2%B7+Next.js;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9A%A1;Open+to+collaboration+%F0%9F%A4%9D;Debugging+is+an+art+form+%F0%9F%90%9B)](https://git.io/typing-svg)
 
 <br/>
 
