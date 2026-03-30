@@ -56,5 +56,5 @@
 ---
 
 <div align="center">
-  <p>Fondateur de <b>asoras</b> (ex-ICHTECH) • Développeur passionné</p>
+  <p>Fondateur de <b>ICHTECH</b>  • Développeur passionné</p>
 </div>
