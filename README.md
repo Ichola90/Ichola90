@@ -72,13 +72,11 @@ const ichola: Developer = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### Base de données & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -97,16 +95,6 @@ const ichola: Developer = {
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ichola90&theme=radical&background=0d1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&border=F59E0B)
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ichola90&theme=radical&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -140,7 +128,7 @@ const ichola: Developer = {
 
 Je suis ouvert à :
 
-- 🔧 **Projets open-source** impliquant PHP, JavaScript ou Java
+- 🔧 **Projets open-source** impliquant PHP, JavaScript, Laravel, Next.js
 - 🚀 **Applications web innovantes** à fort impact
 - 💼 **Services backend scalables** (APIs REST, GraphQL, microservices)
 - 🌍 **Projets à impact en Afrique** — tech for good
