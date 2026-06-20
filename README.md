@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=200&section=header&text=Ichola%20Brice%20AKIOSSI&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=200&section=header&text=Ichola%20Brice%20AKIOSSI&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- AVATAR + STATUS -->
 <br/>
