@@ -84,12 +84,13 @@ const ichola: Developer = {
 ### QA / Test Automation
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Automated Testing](https://img.shields.io/badge/Automated%20Testing-6A5ACD?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-FF6B6B?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
+</div>
 ## 📊 GitHub Stats Pub
 
 
