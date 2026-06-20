@@ -80,7 +80,16 @@ const ichola: Developer = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### QA / Test Automation
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Automated Testing](https://img.shields.io/badge/Automated%20Testing-6A5ACD?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-FF6B6B?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-4A90E2?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ## 📊 GitHub Stats Pub
 
