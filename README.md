@@ -14,12 +14,12 @@
 <br/><br/>
 
 <!-- NAVIGATION DIRECTE ÉPURÉE -->
-[🌐 **Portfolio Officiel**](https://akiossibriceichola.onrender.com/) &nbsp;·&nbsp;
-[💼 **LinkedIn**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) &nbsp;·&nbsp;
-[💬 **WhatsApp**](https://wa.me/22948454505) &nbsp;·&nbsp;
-[📧 **Email**](mailto:aichola22@gmail.com) &nbsp;·&nbsp;
-[👥 **Facebook**](https://web.facebook.com/IcholaAKIOSSI) &nbsp;·&nbsp;
-[🐙 **GitHub**](https://github.com/Ichola90)
+[**Portfolio Officiel**](https://akiossibriceichola.onrender.com/) &nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) &nbsp;·&nbsp;
+[**WhatsApp**](https://wa.me/22948454505) &nbsp;·&nbsp;
+[**Email**](mailto:aichola22@gmail.com) &nbsp;·&nbsp;
+[**Facebook**](https://web.facebook.com/IcholaAKIOSSI) &nbsp;·&nbsp;
+[**GitHub**](https://github.com/Ichola90)
 
 <br/><br/>
 
@@ -72,45 +72,45 @@ const ichola: SoftwareEngineer = {
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
-### 📱 Développement Mobile
+### Développement Mobile
 - **Flutter & Dart** — Applications mobiles cross-platform iOS & Android natives, fluides, réactives et connectées à des APIs modernes.
 - **Architectures mobiles** — Gestion d'état avancée (Riverpod, Bloc, Provider), respect rigoureux des guidelines Material Design & Cupertino.
 
-### 💻 Frontend Web
+### Frontend Web
 - **React.js & Next.js** — Applications web modernes, Server-Side Rendering (SSR), Static Site Generation (SSG) et plateformes interactives.
 - **Vue.js 3 & Nuxt** — Interfaces réactives, modulaires et performantes.
 - **TypeScript & JavaScript (ES6+)** — Typage statique rigoureux, robustesse et maintenabilité du code source.
 - **Tailwind CSS & Bootstrap** — Conception d'interfaces élégantes, ergonomiques et adaptées à tous les écrans.
 
-### ⚙️ Backend, APIs & Architecture
+###  Backend, APIs & Architecture
 - **Laravel & PHP** — Architectures SaaS scalables, logique métier avancée, ORM Eloquent et sécurité applicative.
 - **Node.js & Express.js** — Microservices rapides, APIs asynchrones et gestion temps réel.
 - **Symfony** — Composants d'entreprise modulaires et structurés.
 - **APIs REST & GraphQL** — Conception, documentation et sécurisation d'APIs performantes.
 
-### 🗄️ Bases de données & Infrastructure
+### Bases de données & Infrastructure
 - **PostgreSQL & MySQL** — Modélisation relationnelle, requêtes optimisées, intégrité et indexation haute performance.
 - **Docker & Conteneurs** — Environnements isolés, standardisation et déploiements reproductibles.
 - **GitHub Actions & CI/CD** — Automatisation des tests et pipelines de livraison continue.
 - **Git & Systèmes Linux** — Gestion de versions, workflows collaboratifs et administration système.
 
-### 🤖 Intelligence Artificielle & Automatisation
+### Intelligence Artificielle & Automatisation
 - **Python & Scripts autonomes** — Automatisation de tâches répétitives, scraping éthique et traitement de données.
 - **Agents IA & Intégration LLM** — Connexion de modèles génératifs intelligents aux processus métiers d'entreprises.
 
-### 🧪 Assurance Qualité & Testing
+### Assurance Qualité & Testing
 - **Playwright, Cypress & Selenium WebDriver** — Suites complètes de tests automatisés End-to-End (E2E) et de non-régression.
 - **Postman & API Testing** — Validation fonctionnelle, tests d'intégration et contrôle de conformité des APIs.
 
-### 🎨 Design Graphique & UI/UX
+### Design Graphique & UI/UX
 - **Figma** — Prototypage UI/UX, wireframes interactifs et design systems.
 - **Adobe Photoshop & Adobe Illustrator** — Création de logotypes vectoriels, chartes graphiques et supports de marque.
 
 ---
 
-## 🚀 Projets & Réalisations phares
+## Projets & Réalisations phares
 
 <div align="center">
 
@@ -131,16 +131,16 @@ const ichola: SoftwareEngineer = {
 
 ## ⚡ Services & Solutions
 
-- 📱 **Développement Mobile Flutter & Dart** : Applications cross-platform iOS & Android fluides, performantes, avec intégration d'APIs et interfaces soignées.
-- 💻 **Développement Web & Plateformes SaaS** : Création de sites vitrines, portails d'entreprise et logiciels SaaS performants, rapides et optimisés pour la conversion.
-- 🤖 **Agents IA & Automatisation** : Intégration d'assistants intelligents connectés à vos outils métiers et automatisation de processus avec Python.
-- 🧪 **Assurance Qualité & QA Testing** : Conception de suites de tests automatisés (Playwright, Cypress, Selenium), validation d'APIs et intégration continue CI/CD.
-- 📈 **SEO Technique & Core Web Vitals** : Structure sémantique HTML5, microdonnées Schema.org, temps de chargement ultra-rapide et accessibilité.
-- 🎨 **Design Graphique & Identité de Marque** : Logotypes vectoriels percutants, chartes graphiques de marque et maquettes UI/UX sur Figma.
+- **Développement Mobile Flutter & Dart** : Applications cross-platform iOS & Android fluides, performantes, avec intégration d'APIs et interfaces soignées.
+- **Développement Web & Plateformes SaaS** : Création de sites vitrines, portails d'entreprise et logiciels SaaS performants, rapides et optimisés pour la conversion.
+- **Agents IA & Automatisation** : Intégration d'assistants intelligents connectés à vos outils métiers et automatisation de processus avec Python.
+- **Assurance Qualité & QA Testing** : Conception de suites de tests automatisés (Playwright, Cypress, Selenium), validation d'APIs et intégration continue CI/CD.
+- **SEO Technique & Core Web Vitals** : Structure sémantique HTML5, microdonnées Schema.org, temps de chargement ultra-rapide et accessibilité.
+- **Design Graphique & Identité de Marque** : Logotypes vectoriels percutants, chartes graphiques de marque et maquettes UI/UX sur Figma.
 
 ---
 
-## 🤝 Disponibilité & Recrutement
+## Disponibilité & Recrutement
 
 Je suis ouvert et disponible pour :
 - **Recrutement à temps plein ou temps partiel** (CDI, CDD, missions freelance).
@@ -149,18 +149,18 @@ Je suis ouvert et disponible pour :
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
 | Canal | Coordonnées / Accès direct |
 |:------|:---------------------------|
 | 🌐 **Portfolio officiel** | [**akiossibriceichola.onrender.com**](https://akiossibriceichola.onrender.com/) |
-| 💬 **WhatsApp direct** | [**+229 01 48 45 45 05 (Lancer la discussion)**](https://wa.me/22948454505) |
-| 📧 **Email direct** | [**aichola22@gmail.com**](mailto:aichola22@gmail.com) |
-| 💼 **LinkedIn** | [**linkedin.com/in/ichola-brice-akiossi**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) |
-| 👥 **Facebook** | [**facebook.com/IcholaAKIOSSI**](https://web.facebook.com/IcholaAKIOSSI) |
-| 🐙 **GitHub** | [**github.com/Ichola90**](https://github.com/Ichola90) |
+|  **WhatsApp direct** | [**+229 01 48 45 45 05 (Lancer la discussion)**](https://wa.me/22948454505) |
+|  **Email direct** | [**aichola22@gmail.com**](mailto:aichola22@gmail.com) |
+|  **LinkedIn** | [**linkedin.com/in/ichola-brice-akiossi**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) |
+|  **Facebook** | [**facebook.com/IcholaAKIOSSI**](https://web.facebook.com/IcholaAKIOSSI) |
+| **GitHub** | [**github.com/Ichola90**](https://github.com/Ichola90) |
 
 </div>
 
