@@ -1,29 +1,33 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=220&section=header&text=Ichola%20Brice%20AKIOSSI&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Ing%C3%A9nieur%20Web%20%26%20Mobile%20%C2%B7%20Flutter%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20IA&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<!-- HEADER WAVE (Dark Mode #0284C7) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=160&section=header" width="100%"/>
 
-<!-- AVATAR + STATUS -->
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=750&lines=Ing%C3%A9nieur+Web+%26+Mobile+%7C+Solutions+sur+mesure+%F0%9F%9A%80;Expert+Mobile+Flutter+%26+Dart+%7C+iOS+%26+Android+%F0%9F%93%B1;Full+Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Laravel+%C2%B7+Node.js+%E2%9A%A1;Solutions+d'IA+%26+Automatisation+de+workflows+%F0%9F%A4%96;Clean+Architecture+%7C+Web+Performance+%7C+SEO+%F0%9F%92%A1;Disponible+pour+projets+%26+collaborations+internationales+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<!-- TITLE (Font: Frijole | Color: #F1F5F9) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Frijole&size=34&duration=6000&pause=3000&color=F1F5F9&center=true&vCenter=true&width=750&lines=Ichola+Brice+AKIOSSI" alt="Ichola Brice AKIOSSI" />
 
 <br/>
 
-<!-- QUICK LINKS / BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter_le_site-F59E0B?style=for-the-badge&logoColor=white)](https://akiossibriceichola.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Discuter-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22948454505)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ichola.akiossi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ichola90)
-[![IchTech](https://img.shields.io/badge/Agence-IchTech-06B6D4?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.ichtech.org/)
+<!-- SUBTITLE & ROLES (Font: Barlow Semi Condensed | Color: #38BDF8) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Barlow+Semi+Condensed&weight=400&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Ing%C3%A9nieur+Web+%26+Mobile+%7C+Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+IA;Expert+Mobile+iOS+%26+Android+avec+Flutter+%26+Dart;Architectures+Web+Scalables+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+TypeScript;Solutions+d'Intelligence+Artificielle+%26+Automatisation;Clean+Architecture+%C2%B7+Web+Performance+%C2%B7+SEO+Technique;Disponible+pour+missions+%26+collaborations+internationales" alt="Typing Subtitle" />
 
 <br/><br/>
 
-<!-- AVAILABILITY & TAGS -->
-![Status](https://img.shields.io/badge/Statut-Disponible%20pour%20missions%20%26%20recrutement-22c55e?style=flat-square&logo=circle&logoColor=white)
-![Location](https://img.shields.io/badge/Localisation-Cotonou%2C%20Bénin%20🇧🇯%20%7C%20Remote-F59E0B?style=flat-square&logo=google-maps&logoColor=white)
-![Languages](https://img.shields.io/badge/Langues-Français%20%C2%B7%20English%20%C2%B7%20Español-7C3AED?style=flat-square)
+<!-- QUICK NAVIGATION (Texte épuré sans sticker) -->
+[🌐 **Portfolio Officiel**](https://akiossibriceichola.onrender.com/) &nbsp;·&nbsp;
+[💼 **LinkedIn**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) &nbsp;·&nbsp;
+[💬 **WhatsApp**](https://wa.me/22948454505) &nbsp;·&nbsp;
+[📧 **Email**](mailto:ichola.akiossi@gmail.com) &nbsp;·&nbsp;
+[🏢 **Agence IchTech**](https://www.ichtech.org/) &nbsp;·&nbsp;
+[🐙 **GitHub**](https://github.com/Ichola90)
+
+<br/><br/>
+
+<p align="center">
+  <b>Statut :</b> Disponible pour missions & recrutement (CDI, freelance, remote ou présentiel) &nbsp;|&nbsp;
+  <b>Localisation :</b> Cotonou, Bénin 🇧🇯 &nbsp;|&nbsp;
+  <b>Langues :</b> Français · English · Español
+</p>
 
 </div>
 
@@ -36,7 +40,7 @@ const ichola: SoftwareEngineer = {
   name:        "Ichola Brice AKIOSSI",
   title:       "Ingénieur Logiciel & Développeur Web, Mobile & IA",
   agency:      "Fondateur chez IchTech (https://www.ichtech.org/)",
-  location:    "Cotonou, Bénin 🇧🇯 (Disponible en présentiel & remote international)",
+  location:    "Cotonou, Bénin 🇧🇯 (Disponible sur site & en remote international)",
   portfolio:   "https://akiossibriceichola.onrender.com/",
   contact: {
     email:     "ichola.akiossi@gmail.com",
@@ -44,24 +48,24 @@ const ichola: SoftwareEngineer = {
     linkedin:  "https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0",
   },
 
-  domains: [
-    "Applications Mobiles Cross-Platform (Flutter & Dart)",
-    "Applications Web & Architectures SaaS Scalables",
-    "Intégration d'Intelligence Artificielle & Automatisation (Python, LLMs)",
+  coreExpertise: [
+    "Applications Mobiles Cross-Platform (Flutter & Dart iOS / Android)",
+    "Architectures Web & Plateformes SaaS Scalables (React, Next.js, Laravel)",
+    "Solutions d'Intelligence Artificielle & Automatisation (Python, Agents IA)",
     "Assurance Qualité & QA Testing Automatisé (Playwright, Cypress, Selenium)",
     "Optimisation SEO Technique, Core Web Vitals & Web Performance",
     "Design Graphique, Direction Artistique & UI/UX (Figma, Illustrator)",
   ],
 
   flagshipProjects: [
-    "DOCS SHOW — Bibliothèque interactive de manuels tech avec quiz",
-    "Votify — Plateforme sécurisée de vote en direct et collecte de dons",
-    "eChillo — Système innovant de billetterie avec QR codes sécurisés",
-    "TAHFUS — Plateforme de vente de formations en ligne à l'international",
+    "DOCS SHOW — Bibliothèque tech interactive avec lecture & quiz",
+    "Votify — Plateforme sécurisée de vote en direct & collecte de dons",
+    "eChillo — Billetterie en ligne avec génération & contrôle de QR codes",
+    "TAHFUS — Plateforme e-learning & monétisation de formations",
     "Premium Agency Template — Modèle web haute performance pour agences",
   ],
 
-  vision: "Transformer des défis métiers complexes en expériences logicielles fluides, robustes et à fort impact ⚡",
+  philosophy: "Concevoir des expériences numériques fluides, durables et à fort retour sur investissement ⚡",
 };
 ```
 
@@ -70,52 +74,38 @@ const ichola: SoftwareEngineer = {
 ## 🛠️ Stack technique
 
 ### 📱 Développement Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+- **Flutter & Dart** — Conception et développement d'applications mobiles cross-platform iOS et Android fluides et performantes
+- **Architectures mobiles** — Gestion d'état avancée (Riverpod, Bloc, Provider), interfaces natives et responsive design
 
 ### 💻 Frontend Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **React.js & Next.js** — Applications web modernes, Server-Side Rendering (SSR), Static Site Generation (SSG) et plateformes interactives
+- **Vue.js 3 & Nuxt** — Interfaces utilisateurs réactives, modulaires et performantes
+- **TypeScript & JavaScript (ES6+)** — Typage statique rigoureux, robustesse et maintenabilité du code
+- **Tailwind CSS & Bootstrap** — Conception d'interfaces élégantes, ergonomiques et optimisées pour tous les écrans
 
 ### ⚙️ Backend, APIs & Architecture
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- **Laravel & PHP** — Architectures SaaS scalables, logique métier avancée, ORM Eloquent et sécurité applicative
+- **Node.js & Express.js** — Microservices rapides, APIs asynchrones et gestion temps réel
+- **Symfony** — Composants d'entreprise réutilisables et structurés
+- **APIs REST & GraphQL** — Conception, sécurisation (OAuth2, JWT) et documentation d'APIs performantes
 
 ### 🤖 Intelligence Artificielle & Automatisation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Agents](https://img.shields.io/badge/Agents_IA_&_LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6F00?style=for-the-badge&logo=n8n&logoColor=white)
+- **Python & Scripts autonomes** — Automatisation de tâches répétitives, scraping éthique et traitement de données
+- **Agents IA & Intégration LLM** — Connexion de modèles génératifs intelligents aux processus métiers d'entreprises
 
-### 🧪 QA, Testing & CI/CD
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/API_Testing_(Postman)-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🧪 QA, Testing & DevOps
+- **Playwright, Cypress & Selenium WebDriver** — Suites complètes de tests automatisés End-to-End (E2E) et de non-régression
+- **Postman & API Testing** — Validation fonctionnelle, tests d'intégration et contrôle de conformité des APIs
+- **Docker & Conteneurs** — Environnements isolés, standardisation et déploiement reproductible
+- **GitHub Actions & CI/CD** — Automatisation des tests et pipelines de déploiement continu
+- **Git & Systèmes Linux** — Gestion de versions, workflows collaboratifs et administration système
 
-### 🗄️ Bases de données, Cloud & Outils
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🗄️ Bases de données & Stockage
+- **PostgreSQL & MySQL** — Modélisation relationnelle avancée, requêtes optimisées, intégrité et indexation haute performance
 
-### 🎨 Design & Direction Artistique
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+### 🎨 Design Graphique & Direction Artistique
+- **Figma** — Prototypage UI/UX, wireframes interactifs et design systems
+- **Adobe Photoshop & Adobe Illustrator** — Création de logos vectoriels, chartes graphiques de marque et supports promotionnels
 
 ---
 
@@ -125,14 +115,14 @@ const ichola: SoftwareEngineer = {
 
 | Projet | Description | Technologies | Démo / Lien |
 |:-------|:------------|:-------------|:-----------:|
-| 📚 **DOCS SHOW** | Bibliothèque numérique interactive de manuels tech avec lecture chapitre par chapitre, progression et quiz interactifs de validation. | Next.js · React · TypeScript · Tailwind CSS | [**Explorer ↗**](https://docsshow.vercel.app/) |
-| 🗳️ **Votify** | Plateforme sécurisée de vote en temps réel et de collecte de dons/contributions pour cérémonies et événements avec passerelles de paiement. | Full Stack · Laravel · React · Payment Gateways | [**Découvrir ↗**](https://votify.asoras.net/) |
-| 🎟️ **eChillo** | Solution de billetterie dématérialisée et commercialisation de tickets d'événements avec génération et contrôle de QR codes sécurisés. | Laravel · React · QR Code Verification · API | [**Voir le projet ↗**](https://echilloriri.onrender.com/) |
-| 🎓 **TAHFUS** | Plateforme éducative d'e-learning et de monétisation de formations en ligne ouverte à un public international. | Web Platform · E-learning · Auth & Billing | [**Visiter ↗**](http://tahfustest.onrender.com/) |
-| 🏢 **Premium Agency Template** | Modèle de site web moderne, élégant, ultra-performant et optimisé SEO pour agences digitales, startups et organisations. | Next.js · React · Tailwind CSS · SEO | [**Aperçu Live ↗**](https://agencytest.onrender.com/) |
-| 👨‍💼 **Portfolio Xavier Atchadé** | Vitrine professionnelle sur mesure, responsive et soignée mettant en valeur projets, parcours et expertises. | React · UI/UX Design · Performance Web | [**Consulter ↗**](https://xavieratchade.onrender.com/) |
-| 💼 **IchTech** | Agence digitale innovante spécialisée en développement web, création mobile et accompagnement à la transformation digitale. | Digital Agency · Full Stack · Mobile Solutions | [**Site Officiel ↗**](https://www.ichtech.org/) |
-| 🎨 **Digicraft Market** | Identité visuelle complète, direction artistique et logotype vectoriel pour une marketplace de produits numériques. | Branding · Figma · Illustrator · Vector UI | [**Détails ↗**](https://digicraft-market.mychariow.shop/) |
+| 📚 **DOCS SHOW** | Bibliothèque numérique interactive de manuels tech avec lecture chapitre par chapitre, progression et quiz de validation. | Next.js · React · TypeScript · Tailwind CSS | [**Explorer ↗**](https://docsshow.vercel.app/) |
+| 🗳️ **Votify** | Plateforme sécurisée de vote en temps réel et collecte de contributions (dons) pour cérémonies et événements. | Full Stack · Laravel · React · Paiement | [**Découvrir ↗**](https://votify.asoras.net/) |
+| 🎟️ **eChillo** | Solution de billetterie en ligne et commercialisation de tickets d'événements avec contrôle de QR codes sécurisés. | Laravel · React · QR Code Verification · API | [**Voir le projet ↗**](https://echilloriri.onrender.com/) |
+| 🎓 **TAHFUS** | Plateforme éducative d'e-learning et de monétisation de formations professionnelles en ligne pour un public international. | Web Platform · E-learning · Auth & Billing | [**Visiter ↗**](http://tahfustest.onrender.com/) |
+| 🏢 **Premium Agency Template** | Modèle web moderne, responsive et optimisé SEO pour agences digitales, startups et organisations. | Next.js · React · Tailwind CSS · SEO | [**Aperçu Live ↗**](https://agencytest.onrender.com/) |
+| 👨‍💼 **Portfolio Xavier Atchadé** | Vitrine professionnelle sur mesure, responsive et soignée mettant en valeur projets et expertises. | React · UI/UX Design · Performance Web | [**Consulter ↗**](https://xavieratchade.onrender.com/) |
+| 💼 **IchTech** | Agence digitale innovante spécialisée en développement web, création mobile et transformation numérique. | Agence Digitale · Full Stack · Solutions Mobile | [**Site Officiel ↗**](https://www.ichtech.org/) |
+| 🎨 **Digicraft Market** | Identité de marque complète, direction artistique et logotype pour une marketplace de produits digitaux. | Branding · Figma · Illustrator · Vector UI | [**Détails ↗**](https://digicraft-market.mychariow.shop/) |
 
 </div>
 
@@ -140,12 +130,12 @@ const ichola: SoftwareEngineer = {
 
 ## ⚡ Services & Solutions
 
-- 📱 **Développement Mobile Flutter & Dart** — Conception et déploiement d'applications mobiles cross-platform iOS & Android fluides, réactives et connectées à des APIs modernes.
-- 💻 **Développement Web & Plateformes SaaS** — Développement d'applications web scalables, portails d'entreprise et architectures SaaS avec React, Next.js, Laravel et TypeScript.
-- 🤖 **Solutions d'IA & Automatisation** — Intégration d'agents conversationnels IA, automatisation de processus métiers et scripts Python intelligents.
-- 🧪 **Assurance Qualité & QA Testing** — Conception de suites de tests end-to-end (Playwright, Cypress, Selenium), tests d'APIs et intégration continue CI/CD.
-- 📈 **SEO Technique & Core Web Vitals** — Optimisation approfondie de la performance, sémantique HTML5, microdonnées Schema.org et conformité aux standards du web moderne.
-- 🎨 **Design Graphique & Identité de Marque** — Logotypes vectoriels percutants, chartes graphiques, maquettes UI/UX Figma et supports visuels de communication.
+- 📱 **Développement Mobile Flutter & Dart** — Applications cross-platform iOS & Android fluides, performantes, avec intégration d'APIs et interfaces soignées.
+- 💻 **Développement Web & Plateformes SaaS** — Création d'applications web sur mesure, portails d'entreprise et architectures scalables (Next.js, React, Laravel).
+- 🤖 **Intelligence Artificielle & Automatisation** — Intégration d'agents conversationnels IA, automatisation de workflows et scripts Python pour décupler la productivité.
+- 🧪 **Assurance Qualité & QA Testing** — Conception de suites de tests automatisés (Playwright, Cypress, Selenium), validation d'APIs et intégration continue CI/CD.
+- 📈 **SEO Technique & Core Web Vitals** — Structure sémantique HTML5, microdonnées Schema.org, temps de chargement ultra-rapide et optimisation pour les moteurs de recherche.
+- 🎨 **Design Graphique & Branding** — Logotypes vectoriels percutants, chartes graphiques de marque, maquettes UI/UX Figma et supports visuels de communication.
 
 ---
 
@@ -153,15 +143,15 @@ const ichola: SoftwareEngineer = {
 
 <div align="center">
 
-<!-- GITHUB STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichola90&theme=radical&background=0d1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&border=F59E0B" alt="GitHub Streak" />
+<!-- GITHUB STREAK STATS (Palette Darkmode #0B1120 / #38BDF8 / #1E293B) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichola90&background=0b1120&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&border=1e293b&currStreakNum=f1f5f9&sideNums=f1f5f9&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- GITHUB STATS & TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ichola90&show_icons=true&theme=radical&bg_color=0d1117&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&border_color=F59E0B" height="175" alt="GitHub Stats" />
+<!-- GITHUB STATS & TOP LANGUAGES (Palette Darkmode #0B1120 / #38BDF8 / #1E293B) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ichola90&show_icons=true&bg_color=0b1120&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&border_color=1e293b" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichola90&layout=compact&theme=radical&bg_color=0d1117&title_color=F59E0B&text_color=ffffff&border_color=F59E0B" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichola90&layout=compact&bg_color=0b1120&title_color=38bdf8&text_color=cbd5e1&border_color=1e293b" height="175" alt="Top Languages" />
 
 </div>
 
@@ -171,7 +161,8 @@ const ichola: SoftwareEngineer = {
 
 <div align="center">
 
-[![Activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ichola90&bg_color=0d1117&color=F59E0B&line=F59E0B&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GITHUB ACTIVITY GRAPH (Palette Darkmode #0B1120 / #38BDF8) -->
+[![Activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ichola90&bg_color=0b1120&color=38bdf8&line=38bdf8&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -182,8 +173,8 @@ const ichola: SoftwareEngineer = {
 Je suis ouvert et disponible pour :
 - 💼 **Recrutement à temps plein ou temps partiel** (CDI, CDD, contrat freelance)
 - 🌍 **Missions en remote international** ou **en présentiel** (Bénin / Afrique de l'Ouest)
-- 🚀 **Création et refonte de plateformes web & SaaS** (Next.js, React, Laravel)
-- 📱 **Développement d'applications mobiles iOS / Android** sous Flutter
+- 🚀 **Création et refonte d'applications web & SaaS** (Next.js, React, Laravel)
+- 📱 **Développement d'applications mobiles iOS & Android** sous Flutter
 - 🤖 **Automatisation de processus & intégration de solutions IA**
 - 🌟 **Projets open-source & initiatives technologiques à fort impact**
 
@@ -193,15 +184,15 @@ Je suis ouvert et disponible pour :
 
 <div align="center">
 
-| Canal | Coordonnées / Lien |
-|:------|:-------------------|
+| Canal | Coordonnées / Accès Direct |
+|:------|:---------------------------|
 | 🌐 **Portfolio Officiel** | [**akiossibriceichola.onrender.com**](https://akiossibriceichola.onrender.com/) |
-| 💬 **WhatsApp Direct** | [**+229 01 48 45 45 05 (Discuter)**](https://wa.me/22948454505) |
-| 💼 **LinkedIn** | [**in/ichola-brice-akiossi**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) |
+| 💬 **WhatsApp Direct** | [**+229 01 48 45 45 05 (Lancer la discussion)**](https://wa.me/22948454505) |
+| 💼 **LinkedIn** | [**linkedin.com/in/ichola-brice-akiossi**](https://www.linkedin.com/in/ichola-brice-akiossi-0420122b0) |
 | 📧 **Email Professionnel** | [**ichola.akiossi@gmail.com**](mailto:ichola.akiossi@gmail.com) |
 | 🏢 **Agence Digitale** | [**ichtech.org**](https://www.ichtech.org/) |
-| 🐙 **GitHub** | [**@Ichola90**](https://github.com/Ichola90) |
-| 👥 **Facebook** | [**IcholaAKIOSSI**](https://web.facebook.com/IcholaAKIOSSI) |
+| 🐙 **GitHub** | [**github.com/Ichola90**](https://github.com/Ichola90) |
+| 👥 **Facebook** | [**facebook.com/IcholaAKIOSSI**](https://web.facebook.com/IcholaAKIOSSI) |
 | 🐦 **Twitter / X** | [**@ichola_bj**](https://twitter.com/ichola_bj) |
 
 </div>
@@ -210,13 +201,9 @@ Je suis ouvert et disponible pour :
 
 <div align="center">
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=footer" width="100%"/>
+<!-- FOOTER WAVE (Dark Mode #0284C7) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=120&section=footer" width="100%"/>
 
 <sub>⚡ Conçu avec passion · Ingénierie Logicielle & Innovation Digitale · Fondateur IchTech</sub>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ichola90&color=F59E0B&style=flat-square&label=Vues+du+Profil)
 
 </div>
