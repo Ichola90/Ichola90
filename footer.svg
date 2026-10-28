@@ -1,0 +1,53 @@
+﻿<svg width="100%" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Frijole&amp;family=Barlow+Semi+Condensed:wght@300;400;600&amp;display=swap');
+      .ft-brand {
+        font-family: 'Frijole', system-ui, sans-serif;
+        font-size: 19px;
+        fill: #F1F5F9;
+        letter-spacing: 0.02em;
+      }
+      .ft-text {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        fill: #94A3B8;
+      }
+      .ft-copy {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-size: 12.5px;
+        font-weight: 400;
+        fill: #64748B;
+      }
+      .ft-link {
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-size: 13.5px;
+        font-weight: 600;
+        fill: #38BDF8;
+      }
+    </style>
+
+    <radialGradient id="ftBg" cx="100%" cy="100%" r="90%">
+      <stop offset="0%" stop-color="#131D33"/>
+      <stop offset="45%" stop-color="#0B1120"/>
+      <stop offset="100%" stop-color="#050811"/>
+    </radialGradient>
+
+    <pattern id="ftGrid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M 56 0 L 0 0 0 56" fill="none" stroke="rgba(56, 189, 248, 0.03)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="130" rx="14" fill="url(#ftBg)"/>
+  <rect width="1200" height="130" rx="14" fill="url(#ftGrid)"/>
+  <rect width="1200" height="130" rx="14" fill="none" stroke="rgba(148, 163, 184, 0.14)" stroke-width="1.5"/>
+
+  <!-- Marque & Description -->
+  <text x="60" y="52" class="ft-brand">ICHOLA AKIOSSI</text>
+  <text x="60" y="82" class="ft-text">IngÃ©nierie Logicielle Â· Applications Web, Mobiles Flutter &amp; Solutions IA</text>
+
+  <!-- Droite : CoordonnÃ©es & AccÃ¨s -->
+  <text x="1140" y="52" text-anchor="end" class="ft-link">akiossibriceichola.onrender.com</text>
+  <text x="1140" y="82" text-anchor="end" class="ft-copy">Cotonou, BÃ©nin ðŸ‡§ðŸ‡¯ Â· aichola22@gmail.com Â· +229 01 48 45 45 05</text>
+</svg>
