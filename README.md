@@ -75,38 +75,38 @@ const ichola: SoftwareEngineer = {
 ## Stack technique
 
 ### Développement Mobile
-- **Flutter & Dart** — Applications mobiles cross-platform iOS & Android natives, fluides, réactives et connectées à des APIs modernes.
-- **Architectures mobiles** — Gestion d'état avancée (Riverpod, Bloc, Provider), respect rigoureux des guidelines Material Design & Cupertino.
+- **Flutter & Dart**: Applications mobiles cross-platform iOS & Android natives, fluides, réactives et connectées à des APIs modernes.
+- **Architectures mobiles**: Gestion d'état avancée (Riverpod, Bloc, Provider), respect rigoureux des guidelines Material Design & Cupertino.
 
 ### Frontend Web
-- **React.js & Next.js** — Applications web modernes, Server-Side Rendering (SSR), Static Site Generation (SSG) et plateformes interactives.
-- **Vue.js 3 & Nuxt** — Interfaces réactives, modulaires et performantes.
-- **TypeScript & JavaScript (ES6+)** — Typage statique rigoureux, robustesse et maintenabilité du code source.
-- **Tailwind CSS & Bootstrap** — Conception d'interfaces élégantes, ergonomiques et adaptées à tous les écrans.
+- **React.js & Next.js**: Applications web modernes, Server-Side Rendering (SSR), Static Site Generation (SSG) et plateformes interactives.
+- **Vue.js 3 & Nuxt**: Interfaces réactives, modulaires et performantes.
+- **TypeScript & JavaScript (ES6+)**: Typage statique rigoureux, robustesse et maintenabilité du code source.
+- **Tailwind CSS & Bootstrap**: Conception d'interfaces élégantes, ergonomiques et adaptées à tous les écrans.
 
 ###  Backend, APIs & Architecture
-- **Laravel & PHP** — Architectures SaaS scalables, logique métier avancée, ORM Eloquent et sécurité applicative.
-- **Node.js & Express.js** — Microservices rapides, APIs asynchrones et gestion temps réel.
-- **Symfony** — Composants d'entreprise modulaires et structurés.
-- **APIs REST & GraphQL** — Conception, documentation et sécurisation d'APIs performantes.
+- **Laravel & PHP**: Architectures SaaS scalables, logique métier avancée, ORM Eloquent et sécurité applicative.
+- **Node.js & Express.js**: Microservices rapides, APIs asynchrones et gestion temps réel.
+- **Symfony**: Composants d'entreprise modulaires et structurés.
+- **APIs REST & GraphQL**: Conception, documentation et sécurisation d'APIs performantes.
 
 ### Bases de données & Infrastructure
-- **PostgreSQL & MySQL** — Modélisation relationnelle, requêtes optimisées, intégrité et indexation haute performance.
-- **Docker & Conteneurs** — Environnements isolés, standardisation et déploiements reproductibles.
-- **GitHub Actions & CI/CD** — Automatisation des tests et pipelines de livraison continue.
-- **Git & Systèmes Linux** — Gestion de versions, workflows collaboratifs et administration système.
+- **PostgreSQL & MySQL**: Modélisation relationnelle, requêtes optimisées, intégrité et indexation haute performance.
+- **Docker & Conteneurs**: Environnements isolés, standardisation et déploiements reproductibles.
+- **GitHub Actions & CI/CD**: Automatisation des tests et pipelines de livraison continue.
+- **Git & Systèmes Linux**: Gestion de versions, workflows collaboratifs et administration système.
 
 ### Intelligence Artificielle & Automatisation
-- **Python & Scripts autonomes** — Automatisation de tâches répétitives, scraping éthique et traitement de données.
-- **Agents IA & Intégration LLM** — Connexion de modèles génératifs intelligents aux processus métiers d'entreprises.
+- **Python & Scripts autonomes**: Automatisation de tâches répétitives, scraping éthique et traitement de données.
+- **Agents IA & Intégration LLM**: Connexion de modèles génératifs intelligents aux processus métiers d'entreprises.
 
 ### Assurance Qualité & Testing
-- **Playwright, Cypress & Selenium WebDriver** — Suites complètes de tests automatisés End-to-End (E2E) et de non-régression.
-- **Postman & API Testing** — Validation fonctionnelle, tests d'intégration et contrôle de conformité des APIs.
+- **Playwright, Cypress & Selenium WebDriver**: Suites complètes de tests automatisés End-to-End (E2E) et de non-régression.
+- **Postman & API Testing**: Validation fonctionnelle, tests d'intégration et contrôle de conformité des APIs.
 
 ### Design Graphique & UI/UX
-- **Figma** — Prototypage UI/UX, wireframes interactifs et design systems.
-- **Adobe Photoshop & Adobe Illustrator** — Création de logotypes vectoriels, chartes graphiques et supports de marque.
+- **Figma**: Prototypage UI/UX, wireframes interactifs et design systems.
+- **Adobe Photoshop & Adobe Illustrator**: Création de logotypes vectoriels, chartes graphiques et supports de marque.
 
 ---
 
